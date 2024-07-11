@@ -139,6 +139,30 @@ nav ul li{
     align-items: center;
     justify-content: center;
 }
+
 button{
     cursor: pointer;
+}
+
+/* video link */
+.video-link{
+    border-radius: 10px;
+    margin: 40px 180px 0 480px;
+}
+
+.lang-sec{
+
+}
+.tag{
+    font-weight: 800;
+    font-size: 32px;
+    color: #0D1321;
+    text-align: center;
+}
+
+.paragraph{
+    font-size: 16px;
+    font-weight: 400;
+    color: darkslategray;
+    text-align: center;
 }
